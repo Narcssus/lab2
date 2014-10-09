@@ -3,6 +3,7 @@ import com.opensymphony.xwork2.ActionSupport;
 import java.sql.*;
 
 public class deletebook extends ActionSupport{
+	//test
 	private String name;
 	
 	public String getName() {
